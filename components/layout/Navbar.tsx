@@ -141,7 +141,7 @@ export function Navbar() {
               className="hidden min-h-12 items-center rounded-full bg-[#14120f] px-5 py-2.5 text-[17px] font-semibold text-white transition hover:bg-[#0a5552] focus-ring md:inline-flex"
               style={{ color: "#ffffff" }}
             >
-              Hire Me
+              Let's Talk
             </a>
             <button
               ref={toggleRef}
@@ -341,7 +341,7 @@ export function Navbar() {
                   className="mt-8 inline-flex min-h-12 w-fit items-center rounded-full bg-[#14120f] px-7 py-3.5 text-[17px] font-semibold text-white focus-ring"
                   style={{ color: "#ffffff" }}
                 >
-                  Hire Me
+                  Let's Talk
                 </motion.a>
               </nav>
             </motion.div>

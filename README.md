@@ -8,12 +8,23 @@ Building digital products that feel simple — across frontend, backend, and dat
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omniaosamamahmood-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnia-osama-6754b3206)
-[![Email](https://img.shields.io/badge/Email-0D6E6A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaomnia47@gmail.com)
-[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<p>
+  <a href="https://github.com/omniaosamamahmood-prog" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:anaomnia47@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="32" height="32" alt="Email" />
+  </a>
+</p>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,vercel" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Vercel" />
 
 </div>
 
@@ -30,13 +41,19 @@ Built for clarity and product craft: interfaces, APIs, and data modeled as one s
 ## Tech stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Motion-FF0055?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nextdotjs.svg" width="28" height="28" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="28" height="28" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typescript.svg" width="28" height="28" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tailwindcss.svg" width="28" height="28" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/framer.svg" width="28" height="28" alt="Motion" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="28" height="28" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="28" height="28" alt="Vercel" />
 </p>
 
 | Area | Tools |
@@ -53,15 +70,13 @@ Built for clarity and product craft: interfaces, APIs, and data modeled as one s
 
 ## Features
 
-| | Feature |
-| --- | --- |
-| <img src="https://img.shields.io/badge/-Intro-0D6E6A?style=flat-square" alt="" /> | Cinematic intro loader with `prefers-reduced-motion` support |
-| <img src="https://img.shields.io/badge/-Hero-0D6E6A?style=flat-square" alt="" /> | Editorial hero, brand wordmark, role emphasis, portrait ecosystem |
-| <img src="https://img.shields.io/badge/-Work-0D6E6A?style=flat-square" alt="" /> | Selected projects grid with live demos and GitHub links |
-| <img src="https://img.shields.io/badge/-Skills-0D6E6A?style=flat-square" alt="" /> | Tabbed tech stack across frontend, backend, databases, and tools |
-| <img src="https://img.shields.io/badge/-Journey-0D6E6A?style=flat-square" alt="" /> | Career timeline with clear milestones |
-| <img src="https://img.shields.io/badge/-Contact-0D6E6A?style=flat-square" alt="" /> | Validated form, honeypot spam filter, email delivery |
-| <img src="https://img.shields.io/badge/-A11y-0D6E6A?style=flat-square" alt="" /> | Focus states, labeled social icons, responsive layout |
+- Cinematic intro loader with `prefers-reduced-motion` support
+- Editorial hero with brand wordmark, role emphasis, and portrait ecosystem
+- Selected projects grid with live demos and GitHub links
+- Tabbed tech stack across frontend, backend, databases, and tools
+- Career journey timeline
+- Contact form with validation, honeypot spam filter, and email delivery
+- Accessible focus states, labeled social icons, and responsive layout
 
 ---
 
@@ -169,30 +184,38 @@ Optimized for [Vercel](https://vercel.com/):
 
 After the first production deploy, send a test message to confirm FormSubmit is activated.
 
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy_with-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new)
+<p>
+  <a href="https://vercel.com/new">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="22" height="22" alt="Vercel" />
+    <strong> Deploy on Vercel</strong>
+  </a>
+</p>
 
 ---
 
 ## Connect
 
 <p>
-  <a href="https://github.com/omniaosamamahmood-prog">
-    <img src="https://img.shields.io/badge/GitHub-omniaosamamahmood--prog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/omniaosamamahmood-prog" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="28" height="28" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206">
-    <img src="https://img.shields.io/badge/LinkedIn-Omnia_Osama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
   </a>
-  <a href="mailto:anaomnia47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anaomnia47%40gmail.com-0D6E6A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="mailto:anaomnia47@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="28" height="28" alt="Email" />
   </a>
 </p>
+
+**Omnia Osama** · Full-Stack WEB Developer  
+[GitHub](https://github.com/omniaosamamahmood-prog) · [LinkedIn](https://www.linkedin.com/in/omnia-osama-6754b3206) · [anaomnia47@gmail.com](mailto:anaomnia47@gmail.com)
 
 ---
 
 <div align="center">
 
-**Omnia Osama** · Full-Stack WEB Developer
-
-© 2026 · All rights reserved
+© 2026 Omnia Osama · All rights reserved
 
 </div>
