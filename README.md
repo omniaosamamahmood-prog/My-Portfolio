@@ -1,32 +1,30 @@
-<div align="center">
-
 # Omnia Osama
 
 **Full-Stack WEB Developer**
 
 Building digital products that feel simple — across frontend, backend, and databases.
 
-<br />
-
 <p>
-  <a href="https://github.com/omniaosamamahmood-prog" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
+  <a href="https://github.com/omniaosamamahmood-prog"><img src="./docs/icons/github.svg" width="32" height="32" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206"><img src="./docs/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:anaomnia47@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="32" height="32" alt="Email" />
-  </a>
+  <a href="mailto:anaomnia47@gmail.com"><img src="./docs/icons/gmail.svg" width="32" height="32" alt="Email" /></a>
 </p>
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,vercel" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Vercel" />
-
-</div>
+<p>
+  <img src="./docs/icons/nextdotjs.svg" width="36" height="36" alt="Next.js" />
+  &nbsp;
+  <img src="./docs/icons/react.svg" width="36" height="36" alt="React" />
+  &nbsp;
+  <img src="./docs/icons/typescript.svg" width="36" height="36" alt="TypeScript" />
+  &nbsp;
+  <img src="./docs/icons/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="./docs/icons/nodedotjs.svg" width="36" height="36" alt="Node.js" />
+  &nbsp;
+  <img src="./docs/icons/vercel.svg" width="36" height="36" alt="Vercel" />
+</p>
 
 ---
 
@@ -40,20 +38,20 @@ Built for clarity and product craft: interfaces, APIs, and data modeled as one s
 
 ## Tech stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nextdotjs.svg" width="28" height="28" alt="Next.js" />
+<p>
+  <img src="./docs/icons/nextdotjs.svg" width="28" height="28" alt="Next.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="28" height="28" alt="React" />
+  <img src="./docs/icons/react.svg" width="28" height="28" alt="React" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typescript.svg" width="28" height="28" alt="TypeScript" />
+  <img src="./docs/icons/typescript.svg" width="28" height="28" alt="TypeScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tailwindcss.svg" width="28" height="28" alt="Tailwind CSS" />
+  <img src="./docs/icons/tailwindcss.svg" width="28" height="28" alt="Tailwind CSS" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/framer.svg" width="28" height="28" alt="Motion" />
+  <img src="./docs/icons/framer.svg" width="28" height="28" alt="Motion" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="28" height="28" alt="Node.js" />
+  <img src="./docs/icons/nodedotjs.svg" width="28" height="28" alt="Node.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="28" height="28" alt="Vercel" />
+  <img src="./docs/icons/vercel.svg" width="28" height="28" alt="Vercel" />
 </p>
 
 | Area | Tools |
@@ -129,6 +127,8 @@ omnia-portfolio/
 │   ├── layout/                  # Navbar · Footer · Intro · Cursor
 │   ├── sections/                # Hero · About · Projects · Skills · Journey · Contact
 │   └── ui/                      # Shared UI primitives
+├── docs/
+│   └── icons/                   # README brand icons (local)
 ├── lib/
 │   ├── data.ts                  # Site content, projects, skills, experience
 │   └── motion.ts                # Shared motion presets
@@ -185,10 +185,8 @@ Optimized for [Vercel](https://vercel.com/):
 After the first production deploy, send a test message to confirm FormSubmit is activated.
 
 <p>
-  <a href="https://vercel.com/new">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="22" height="22" alt="Vercel" />
-    <strong> Deploy on Vercel</strong>
-  </a>
+  <a href="https://vercel.com/new"><img src="./docs/icons/vercel.svg" width="22" height="22" alt="Vercel" /></a>
+  &nbsp;<a href="https://vercel.com/new"><strong>Deploy on Vercel</strong></a>
 </p>
 
 ---
@@ -196,17 +194,11 @@ After the first production deploy, send a test message to confirm FormSubmit is 
 ## Connect
 
 <p>
-  <a href="https://github.com/omniaosamamahmood-prog" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="28" height="28" alt="GitHub" />
-  </a>
+  <a href="https://github.com/omniaosamamahmood-prog"><img src="./docs/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206"><img src="./docs/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:anaomnia47@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="28" height="28" alt="Email" />
-  </a>
+  <a href="mailto:anaomnia47@gmail.com"><img src="./docs/icons/gmail.svg" width="28" height="28" alt="Email" /></a>
 </p>
 
 **Omnia Osama** · Full-Stack WEB Developer  
@@ -214,8 +206,4 @@ After the first production deploy, send a test message to confirm FormSubmit is 
 
 ---
 
-<div align="center">
-
 © 2026 Omnia Osama · All rights reserved
-
-</div>
