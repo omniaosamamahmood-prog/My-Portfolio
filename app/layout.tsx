@@ -81,15 +81,21 @@ export const metadata: Metadata = {
     },
   },
   category: "portfolio",
+  other: {
+    google: "notranslate",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${syne.variable} ${instrument.variable} ${dmSans.variable} ${jetbrains.variable} h-full antialiased`}
+      translate="no"
+      className={`notranslate ${syne.variable} ${instrument.variable} ${dmSans.variable} ${jetbrains.variable} h-full antialiased`}
     >
-      <body className="min-h-full bg-bg font-body text-ink">{children}</body>
+      <body className="min-h-full bg-bg font-body text-ink" translate="no">
+        {children}
+      </body>
     </html>
   );
 }
